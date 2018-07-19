@@ -32,6 +32,7 @@ Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking 
 This will create a GitHub User page ready with the **Beautiful Jekyll** template that will be available at http://yourusername.github.io (sometimes it takes a few minutes).
 
 ### 3. Customize settings
+![Resultado de imagen de estrellas](https://estaticos.muyinteresante.es/media/cache/760x570_thumb/uploads/images/article/5a058a035bafe88915f0be04/estrella-no-muere_0.jpg)
 
 Edit the `_config.yml` file to change all the settings to reflect your site.  The settings in the file are fairly self-explanatory and I added comments inside the file to help you further.  Every time you make a change to any file, your website will get rebuilt and should be updated at `yourusername.github.io` within a minute.
 
@@ -45,6 +46,6 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
   <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDg2MTY3MDcsLTIwMDc3NjE5MDksLT
-ExOTQyMjQwOTcsLTcwNDcwOTI1NV19
+eyJoaXN0b3J5IjpbLTUzMzEzOTA0OCwtMjA0ODYxNjcwNywtMj
+AwNzc2MTkwOSwtMTE5NDIyNDA5NywtNzA0NzA5MjU1XX0=
 -->
