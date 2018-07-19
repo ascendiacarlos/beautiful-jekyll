@@ -18,7 +18,7 @@ Nuestro Sol un día será **Una Enana Blanca**
 Otra forma de viajar **El Universo** las *nebulosas* , creadoreas de estrellas :)    
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Starsinthesky.jpg/1024px-Starsinthesky.jpg)
-### 1. PLanetas 
+**strong text**### 1. PLanetas 
 
 
 
@@ -41,8 +41,8 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
   <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzc3MTYyLC0xNTE5MzI0NDgyLC00MD
-IzMTc5NzYsLTEwNDg5NDE0NjIsMTI1NTQ3NDg1MSw1MTAyNDcy
-OCwtMjA0ODYxNjcwNywtMjAwNzc2MTkwOSwtMTE5NDIyNDA5Ny
-wtNzA0NzA5MjU1XX0=
+eyJoaXN0b3J5IjpbLTg0MzEzODc3NCwyMTIzNzcxNjIsLTE1MT
+kzMjQ0ODIsLTQwMjMxNzk3NiwtMTA0ODk0MTQ2MiwxMjU1NDc0
+ODUxLDUxMDI0NzI4LC0yMDQ4NjE2NzA3LC0yMDA3NzYxOTA5LC
+0xMTk0MjI0MDk3LC03MDQ3MDkyNTVdfQ==
 -->
