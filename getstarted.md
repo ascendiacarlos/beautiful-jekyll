@@ -2,7 +2,7 @@
 layout: page
 title: Estrellasssss
 subtitle: Todas las estrellas brillan!!!!!!!
-bigimg: 
+bigimg: ![Imagen relacionada](http://cdn.eso.org/images/screen/eso1401b.jpg)
 ---
 
 
@@ -47,6 +47,6 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
   <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NDM0ODkzLC0yMDQ4NjE2NzA3LC0yMD
-A3NzYxOTA5LC0xMTk0MjI0MDk3LC03MDQ3MDkyNTVdfQ==
+eyJoaXN0b3J5IjpbNTEwMjQ3MjgsLTIwNDg2MTY3MDcsLTIwMD
+c3NjE5MDksLTExOTQyMjQwOTcsLTcwNDcwOTI1NV19
 -->
