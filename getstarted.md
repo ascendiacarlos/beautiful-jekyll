@@ -20,11 +20,10 @@ Nuestro Sol un día será **Una Enana Blanca**
 
 Otra forma de viajar **El Universo** las *nebulosas* , creadoreas de estrellas :)    
 
-Here is a 40-second video showing how to get started, with the specific steps below.  For a more complete installation guide, [visit the Beautiful Jekyll page](https://github.com/daattali/beautiful-jekyll#readme).
-
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Starsinthesky.jpg/1024px-Starsinthesky.jpg)
 ### 1. PLanetas 
 
-Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking the Fork button on the top right corner in GitHub.
+
 
 ### 2. Cometas `yourusername.github.io`
 
@@ -45,8 +44,8 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
   <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNDgxMTg4NiwtNDAyMzE3OTc2LC0xMD
-Q4OTQxNDYyLDEyNTU0NzQ4NTEsNTEwMjQ3MjgsLTIwNDg2MTY3
-MDcsLTIwMDc3NjE5MDksLTExOTQyMjQwOTcsLTcwNDcwOTI1NV
-19
+eyJoaXN0b3J5IjpbLTE1MTkzMjQ0ODIsLTQwMjMxNzk3NiwtMT
+A0ODk0MTQ2MiwxMjU1NDc0ODUxLDUxMDI0NzI4LC0yMDQ4NjE2
+NzA3LC0yMDA3NzYxOTA5LC0xMTk0MjI0MDk3LC03MDQ3MDkyNT
+VdfQ==
 -->
