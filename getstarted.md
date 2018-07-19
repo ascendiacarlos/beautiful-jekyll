@@ -22,9 +22,9 @@ Otra forma de viajar **El Universo** las *nebulosas* , creadoreas de estrellas :
 
 
 
-### 2. Cometas `yourusername.github.io`
+### 2. Cometas `Los elementos más rápidos con materiales solidos`
 
-This will create a GitHub User page ready with the **Beautiful Jekyll** template that will be available at http://yourusername.github.io (sometimes it takes a few minutes).
+This will create a GitHub User page ready with the **Beautiful Jekyll** template that will be 
 
 ### 3. Otras Nebulosas
 ![Resultado de imagen de estrellas](https://estaticos.muyinteresante.es/media/cache/760x570_thumb/uploads/images/article/5a058a035bafe88915f0be04/estrella-no-muere_0.jpg)
@@ -41,8 +41,8 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
   <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzY3NDYwMjcsLTE1MTkzMjQ0ODIsLT
-QwMjMxNzk3NiwtMTA0ODk0MTQ2MiwxMjU1NDc0ODUxLDUxMDI0
-NzI4LC0yMDQ4NjE2NzA3LC0yMDA3NzYxOTA5LC0xMTk0MjI0MD
-k3LC03MDQ3MDkyNTVdfQ==
+eyJoaXN0b3J5IjpbLTg2OTY4MjY2MCwtMTUxOTMyNDQ4MiwtND
+AyMzE3OTc2LC0xMDQ4OTQxNDYyLDEyNTU0NzQ4NTEsNTEwMjQ3
+MjgsLTIwNDg2MTY3MDcsLTIwMDc3NjE5MDksLTExOTQyMjQwOT
+csLTcwNDcwOTI1NV19
 -->
