@@ -2,13 +2,13 @@
 layout: page
 title: Estrellasssss
 subtitle: Todas las estrellas brillan!!!!!!!
-bigimg: ![Imagen relacionada](http://cdn.eso.org/images/screen/eso1401b.jpg)
+bigimg: ![Imagen relacionada (http://cdn.eso.org/images/screen/eso1401b.jpg)
 ---
 
 
 **El Espacio Exterior** Una **estrella** (del [latín](https://es.wikipedia.org/wiki/Lat%C3%ADn "Latín"): _stella_) es una esfera luminosa de [plasma](https://es.wikipedia.org/wiki/Plasma_(estado_de_la_materia) "Plasma (estado de la materia)") que mantiene su forma gracias a su propia [gravedad](https://es.wikipedia.org/wiki/Gravedad "Gravedad"). La estrella más cercana a la [Tierra](https://es.wikipedia.org/wiki/Tierra "Tierra") es el [Sol](https://es.wikipedia.org/wiki/Sol "Sol").[1](https://es.wikipedia.org/wiki/Estrella#cite_note-1)​ Otras estrellas son visibles a [simple vista](https://es.wikipedia.org/wiki/Simple_vista "Simple vista") desde la Tierra durante la noche, apareciendo como una diversidad de puntos luminosos fijos en el cielo debido a su inmensa distancia de la misma.[2](https://es.wikipedia.org/wiki/Estrella#cite_note-2)​ Históricamente, las estrellas más prominentes fueron agrupadas en [constelaciones](https://es.wikipedia.org/wiki/Constelaci%C3%B3n "Constelación") y [asterismos](https://es.wikipedia.org/wiki/Asterismo "Asterismo"), y las estrellas más brillantes pasaron a denominarse con nombres propios. Los astrónomos han recopilado un extenso [catálogo](https://es.wikipedia.org/wiki/Cat%C3%A1logo_de_estrellas "Catálogo de estrellas"), proporcionándole a las estrellas [designaciones estandarizadas](https://es.wikipedia.org/wiki/Nomenclatura_estelar "Nomenclatura estelar"). Sin embargo, la mayoría de las estrellas en el [Universo](https://es.wikipedia.org/wiki/Universo "Universo"), incluyendo todas las que están fuera de nuestra [galaxia](https://es.wikipedia.org/wiki/Galaxia "Galaxia"), la [Vía Láctea](https://es.wikipedia.org/wiki/V%C3%ADa_L%C3%A1ctea "Vía Láctea"), son invisibles a simple vista desde la Tierra. De hecho, la mayoría son invisibles desde la dicha Tierra incluso a través de los [telescopios](https://es.wikipedia.org/wiki/Telescopio "Telescopio") de gran potencia.
 
-Nuestro Sol **Una Enana Blanca** 
+Nuestro Sol un día será **Una Enana Blanca** 
 ![Imagen relacionada](https://meditacionesdeldia.files.wordpress.com/2016/10/estrella.jpg)
 
 <div class="get-started-wrap">
@@ -45,7 +45,7 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
   <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMTI3MTg2MSwtMTA0ODk0MTQ2MiwxMj
+eyJoaXN0b3J5IjpbLTQwMjMxNzk3NiwtMTA0ODk0MTQ2MiwxMj
 U1NDc0ODUxLDUxMDI0NzI4LC0yMDQ4NjE2NzA3LC0yMDA3NzYx
 OTA5LC0xMTk0MjI0MDk3LC03MDQ3MDkyNTVdfQ==
 -->
