@@ -21,6 +21,7 @@ Otra forma de viajar **El Universo** las *nebulosas* , creadoreas de estrellas :
 ### 1. PLanetas 
 
     Acompañan a las estrellas
+    ## 
 
 
 ### 2. Cometas `Los elementos más rápidos con materiales solidos`
@@ -42,7 +43,7 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
   <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MTQ1MzU2OSwyMTIzNzcxNjIsLTE1MT
+eyJoaXN0b3J5IjpbMTIwNjE2NTEyMSwyMTIzNzcxNjIsLTE1MT
 kzMjQ0ODIsLTQwMjMxNzk3NiwtMTA0ODk0MTQ2MiwxMjU1NDc0
 ODUxLDUxMDI0NzI4LC0yMDQ4NjE2NzA3LC0yMDA3NzYxOTA5LC
 0xMTk0MjI0MDk3LC03MDQ3MDkyNTVdfQ==
