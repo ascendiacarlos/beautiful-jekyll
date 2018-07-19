@@ -2,7 +2,7 @@
 layout: page
 title: Estrellasssss
 subtitle: Todas las estrellas brillan!!!!!!!
-bigimg: ![Imagen relacionada (http://cdn.eso.org/images/screen/eso1401b.jpg)
+bigimg: ![Imagen relacionada (http://cdn.eso.org/images/screen/eso1401b.jpg)]
 ---
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Well_known_stars_2.png/1024px-Well_known_stars_2.png)
 
@@ -44,8 +44,8 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
   <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzNjg1NTc1LDIxMjM3NzE2MiwtMTUxOT
-MyNDQ4MiwtNDAyMzE3OTc2LC0xMDQ4OTQxNDYyLDEyNTU0NzQ4
-NTEsNTEwMjQ3MjgsLTIwNDg2MTY3MDcsLTIwMDc3NjE5MDksLT
-ExOTQyMjQwOTcsLTcwNDcwOTI1NV19
+eyJoaXN0b3J5IjpbLTIwNTc1OTQ2OCwzNDM2ODU1NzUsMjEyMz
+c3MTYyLC0xNTE5MzI0NDgyLC00MDIzMTc5NzYsLTEwNDg5NDE0
+NjIsMTI1NTQ3NDg1MSw1MTAyNDcyOCwtMjA0ODYxNjcwNywtMj
+AwNzc2MTkwOSwtMTE5NDIyNDA5NywtNzA0NzA5MjU1XX0=
 -->
