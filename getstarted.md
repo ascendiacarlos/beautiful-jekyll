@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Estrellasssss
-subtitle: Todas las estrellas brilla
-bigimg: ![Resultado de imagen de estrellas](https://i.kinja-img.com/gawker-media/image/upload/s--GiEx8ieB--/c_scale,f_auto,fl_progressive,q_80,w_800/yfiqdjxfma9rahpnzv2s.jpg)
+subtitle: Todas las estrellas brillan!!!!!!!
+bigimg: 
 ---
+
 
 **Beautiful Jekyll** is a ready-to-use template to make help you create an awesome Jekyll or GitHub Pages website quickly. 
 
@@ -46,6 +47,6 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
   <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODMyODY1NCwtMjA0ODYxNjcwNywtMj
-AwNzc2MTkwOSwtMTE5NDIyNDA5NywtNzA0NzA5MjU1XX0=
+eyJoaXN0b3J5IjpbMTA1NDM0ODkzLC0yMDQ4NjE2NzA3LC0yMD
+A3NzYxOTA5LC0xMTk0MjI0MDk3LC03MDQ3MDkyNTVdfQ==
 -->
