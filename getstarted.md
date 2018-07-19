@@ -21,8 +21,6 @@ To learn how you can use **Beautiful Jekyll** to create your website in minutes,
 There are only three simple steps, so using **Beautiful Jekyll** is *literally* as easy as 1-2-3 :)    
 
 Here is a 40-second video showing how to get started, with the specific steps below.  For a more complete installation guide, [visit the Beautiful Jekyll page](https://github.com/daattali/beautiful-jekyll#readme).
-![](htt
-<img src="../img/install-steps.gif" style="width:100%;" alt="Installation steps" />
 
 ### 1. Fork the Beautiful Jekyll repository 
 
@@ -47,7 +45,7 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
   <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MTkxODI5NiwxMjU1NDc0ODUxLDUxMD
-I0NzI4LC0yMDQ4NjE2NzA3LC0yMDA3NzYxOTA5LC0xMTk0MjI0
-MDk3LC03MDQ3MDkyNTVdfQ==
+eyJoaXN0b3J5IjpbODExODEyMzI4LDEyNTU0NzQ4NTEsNTEwMj
+Q3MjgsLTIwNDg2MTY3MDcsLTIwMDc3NjE5MDksLTExOTQyMjQw
+OTcsLTcwNDcwOTI1NV19
 -->
