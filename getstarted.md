@@ -18,7 +18,7 @@ To learn how you can use **Beautiful Jekyll** to create your website in minutes,
 
 ## EL UNIVERSO PROFUNDO
 
-Otra forma de viajar **El Universo** las *nebulosas*  :)    
+Otra forma de viajar **El Universo** las *nebulosas* , creadoreas de estrellas :)    
 
 Here is a 40-second video showing how to get started, with the specific steps below.  For a more complete installation guide, [visit the Beautiful Jekyll page](https://github.com/daattali/beautiful-jekyll#readme).
 
@@ -45,7 +45,7 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
   <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzA2NzAyNDksMTI1NTQ3NDg1MSw1MT
+eyJoaXN0b3J5IjpbLTEwNDg5NDE0NjIsMTI1NTQ3NDg1MSw1MT
 AyNDcyOCwtMjA0ODYxNjcwNywtMjAwNzc2MTkwOSwtMTE5NDIy
 NDA5NywtNzA0NzA5MjU1XX0=
 -->
